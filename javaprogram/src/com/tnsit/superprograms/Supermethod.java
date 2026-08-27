@@ -9,8 +9,8 @@ class senioremployee extends Employeer1{
 	void calculatePerformance() {
 		super.calculatePerformance();
 		System.out.println("calculating leadership performance");
-	}
 	
+}
 }
 public class Supermethod {
 public static void main(String[] args) {

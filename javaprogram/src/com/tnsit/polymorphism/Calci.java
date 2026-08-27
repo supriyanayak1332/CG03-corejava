@@ -12,5 +12,8 @@ public class Calci {
 	}	
 	public static void main(String[] args) {
 		Calci c=new Calci();
+		System.out.println("Area of circle:"+c.calculateArea(5.0));
+		System.out.println("Area of Rectangle:"+c.calculateArea(10.0));
+		System.out.println("Area of square:"+c.calculateArea(4));
 	}
 }
