@@ -1,4 +1,4 @@
-package com.tnsif.lambdaexpressiondemo;
+package com.tnsit.lambdaexpressiondemo;
 
 @FunctionalInterface
 interface Demo{

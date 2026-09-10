@@ -1,4 +1,4 @@
-package com.tnsif.lambdaexpressiondemo;
+package com.tnsit.lambdaexpressiondemo;
 
 interface Area{
 	int calculate(int side);
